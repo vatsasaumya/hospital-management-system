@@ -9,7 +9,7 @@ Installation:
 
 1) Download the repository
 
-git clone https://github.com/margiki/NHS-nodejs-webapp
+git clone https://github.com/vatsasaumya/hospital-management-system
 OR just download the ZIP folder
 
 2) Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
