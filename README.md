@@ -13,7 +13,7 @@ git clone https://github.com/vatsasaumya/hospital-management-system
 OR just download the ZIP folder
 
 2) Open the Terminal (Linux & MacOS) or PowerShell (Windows) and change directory to the project folder.
-3)  Type ‘npm install’ in the Terminal (PowerShell) and press Enter. All the dependencies would be installed.
+3)  Type ‘npm install’ followed by dependencies from package.json file in the Terminal (PowerShell) and press Enter. All the dependencies would be installed.
 4)  Go back to the Terminal (PowerShell) and be sure that you are pointing inside the project folder. To open the application, type ‘node app.js’ and press Enter.
     Type http://localhost:3000/ into a browser.
 5)  To login use the username: admin and the password: admin
