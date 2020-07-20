@@ -24,7 +24,7 @@
     "express-validator": "^3.2.1",
     "hbs": "^4.1.1",
     "is-valid-date": "0.0.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongodb": "^2.2.36",
     "passport": "^0.3.2",
     "passport-http": "^0.3.0",
